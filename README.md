@@ -217,7 +217,9 @@ _Creator & Lead Developer_
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is **free to use**. If you use or modify this project, please give credit to the original creator:
+
+> **Original idea & development by [FeresDev](https://github.com/FeresDev)**
 
 ---
 
