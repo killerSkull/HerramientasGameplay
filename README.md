@@ -208,7 +208,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 _Creator & Lead Developer_
 
-[![GitHub](https://img.shields.io/badge/GitHub-FeresDev-181717?style=for-the-badge&logo=github)](https://github.com/FeresDev)
+[![GitHub](https://img.shields.io/badge/GitHub-FeresDev-181717?style=for-the-badge&logo=github)](https://github.com/killerSkull)
 
 </div>
 
@@ -218,7 +218,7 @@ _Creator & Lead Developer_
 
 This project is **free to use**. If you use or modify this project, please give credit to the original creator:
 
-> **Original idea & development by [FeresDev](https://github.com/FeresDev)**
+> **Original idea & development by [FeresDev](https://github.com/killerSkull)**
 
 ---
 
